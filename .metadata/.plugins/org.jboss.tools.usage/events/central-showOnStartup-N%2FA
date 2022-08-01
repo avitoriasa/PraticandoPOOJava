@@ -1,9 +1,9 @@
-#Sun Jul 31 12:42:39 BRT 2022
+#Sun Jul 31 19:23:33 BRT 2022
 ct=central
 a=showOnStartup
-c=0
+c=1
 s=0
-d=1659282159439
+d=1659306213333
 v=2.2.300.v20200323-1608
 cmp=usage
 cl=N/A
