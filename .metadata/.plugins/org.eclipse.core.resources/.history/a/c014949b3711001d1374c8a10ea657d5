@@ -27,10 +27,7 @@ public class Dev {
 	}
 	
 	public double calcularTotalXP() {
-		return this.conteudosConcluidos
-				.stream()
-				.mapToDouble(Conteudo::calcularXP)
-				.sum();
+		this.conteudosConcluidos.stream()
 	}
 
 	public String getNome() {
